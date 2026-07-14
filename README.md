@@ -4,6 +4,8 @@ A modern and responsive weather application built with **React**, **Vite**, and 
 
 ---
 
+## LIVE DEMO : https://weather-dashboard-nine-opal.vercel.app/
+
 ## ✨ Features
 
 * 🌍 Search weather for any city around the world
@@ -92,7 +94,7 @@ npm run dev
 Open your browser and visit:
 
 ```
-http://localhost:5173
+https://weather-dashboard-nine-opal.vercel.app/
 ```
 
 ---
@@ -142,6 +144,11 @@ Contributions are always welcome!
 This project is available under the **MIT License**.
 
 ---
+
+## AUTHOR ##
+
+AARYA KOTHE 
+EMAIL: aaryakothe2@gmail.com
 
 ## ⭐ Support
 
